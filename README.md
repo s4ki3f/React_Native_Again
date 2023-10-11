@@ -12,3 +12,5 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+- https://vscode.dev/tunnel/ub80404-pc179/c:/Users/19141016/Documents/React_Native_Again
